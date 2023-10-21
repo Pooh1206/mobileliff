@@ -1,0 +1,259 @@
+.ax_default {
+  font-family: "ArialMT", "Arial", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+  letter-spacing: normal;
+  color: #333333;
+  vertical-align: none;
+  text-align: center;
+  line-height: normal;
+  text-transform: none;
+}
+.heading_1 {
+  font-family: "ArialMT", "Arial", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 32px;
+  text-align: left;
+}
+.heading_2 {
+  font-family: "ArialMT", "Arial", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 24px;
+  text-align: left;
+}
+.heading_3 {
+  font-family: "ArialMT", "Arial", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 18px;
+  text-align: left;
+}
+.heading_4 {
+  font-family: "ArialMT", "Arial", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 14px;
+  text-align: left;
+}
+.heading_5 {
+  font-family: "ArialMT", "Arial", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  text-align: left;
+}
+.heading_6 {
+  font-family: "ArialMT", "Arial", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 10px;
+  text-align: left;
+}
+.paragraph {
+  text-align: left;
+}
+.form_hint {
+  color: #999999;
+}
+.form_disabled {
+}
+._形状 {
+  font-family: "ArialMT", "Arial", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+  color: #333333;
+  text-align: center;
+  line-height: normal;
+}
+.text_link {
+  color: #0000ff;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
+._流程形状 {
+}
+.snapshot {
+}
+._连接线 {
+  font-family: "PingFangSC-Regular", "PingFang SC", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 13px;
+  color: #1e1e1e;
+  text-align: center;
+  line-height: normal;
+}
+.box_1 {
+}
+.label {
+  font-family: "ArialMT", "Arial", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 12px;
+  text-align: left;
+}
+.icon {
+}
+.image {
+  color: #000000;
+}
+.label1 {
+  font-size: 14px;
+  text-align: left;
+}
+.checkbox {
+  text-align: left;
+}
+.ellipse {
+}
+.image1 {
+}
+.button {
+}
+.primary_button {
+  color: #ffffff;
+}
+.link_button {
+  color: #169bd5;
+}
+._图片 {
+}
+.box_2 {
+}
+.shape {
+  font-family: "ArialMT", "Arial", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+  color: #333333;
+  text-align: center;
+  line-height: normal;
+}
+.label2 {
+  font-family: "HelveticaNeue", "Helvetica Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  text-align: left;
+}
+.line {
+}
+._默认样式 {
+}
+.shape1 {
+}
+.text_field {
+  color: #000000;
+  text-align: left;
+}
+.table_cell {
+}
+.text_area {
+  color: #000000;
+  text-align: left;
+}
+.horizontal_line {
+}
+.vertical_line {
+}
+.box_21 {
+  font-family: "MicrosoftYaHei", "微软雅黑", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.box_3 {
+}
+.placeholder {
+}
+.droplist {
+  color: #000000;
+  text-align: left;
+}
+.sticky_1 {
+  text-align: left;
+}
+._文本段落 {
+  text-align: left;
+}
+._鼠标按下文本链接时 {
+}
+.html_button {
+  text-align: center;
+}
+.paragraph1 {
+  text-align: left;
+}
+.heading_21 {
+  font-family: "Arial-BoldMT", "Arial Bold", "Arial", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 24px;
+  text-align: left;
+}
+.heading_11 {
+  font-family: "Arial-BoldMT", "Arial Bold", "Arial", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 32px;
+  text-align: left;
+}
+._28号字_页面备注信息及列表的表头说明文字__） {
+  font-family: "PingFangSC-Regular", "PingFang SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  text-align: left;
+}
+.table {
+}
+._文本段落1 {
+  text-align: left;
+}
+.font_awesome_5_free_solid {
+  font-family: "Font Awesome 5 Free", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+._形状1 {
+}
+._图片1 {
+  color: #000000;
+}
+.marker {
+  color: #ffffff;
+}
+.font_awesome_5_brand_icons {
+  font-family: "FontAwesome5BrandsRegular", "Font Awesome 5 Brands", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.font_awesome_5_pro {
+  font-family: "FontAwesome5Pro-Solid", "Font Awesome 5 Pro Solid",
+    "Font Awesome 5 Pro", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+._形状2 {
+  font-family: "微软雅黑 Bold", "微软雅黑", "微软雅黑", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 16px;
+  color: #1abc9c;
+}
+._文本段落2 {
+  color: #333333;
+  text-align: left;
+}
+.flow_shape {
+}
+textarea,
+select,
+input,
+button {
+  outline: none;
+}
